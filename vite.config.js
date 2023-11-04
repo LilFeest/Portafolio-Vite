@@ -21,5 +21,5 @@ export default defineConfig({
         htmlPurge({}),
         ViteMinifyPlugin({}),
     ],
-    //base: "/Static-PW2/"
+    base: "/Portafolio-Vite/"
 })
